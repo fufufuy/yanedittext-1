@@ -1,0 +1,3 @@
+include ':fuyanedittext'
+include ':app'
+rootProject.name = "Wheelpicker"
